@@ -13,9 +13,9 @@
 - Capabilities that will drive revenue/impact
 
 <h3>Non-Funtional</h3>
-- Mobile / Desktop
-- Responsive / Adaptive
-- Internet / Location / Devices
+1. Mobile / Desktop
+2. Responsive / Adaptive
+3. Internet / Location / Devices
 - Accessibility
 - Assets optimization
 - Performance
