@@ -7,29 +7,30 @@
 5.  Implementation
 
 <h3>Functional</h3>
-
-- Understanding your business and customer needs
-- What modules / features can be provide to our customers
-- Capabilities that will drive revenue/impact
+<ul>
+  <li>Understanding your business and customer needs</li>
+  <li>What modules / features can be provide to our customers</li>
+  <li>Capabilities that will drive revenue/impact
+</li>
+</ul>
 
 <h3>Non-Funtional</h3>
 <ul>
   <li>Mobile / Desktop</li>
+  <li>Responsive / Adaptive</li>
+  <li>Internet / Location / Devices</li>
+  <li>Accessibility</li>
+  <li>Assets optimization</li>
+  <li>Performance</li>
+  <li>CSR/SSR</li>
+  <li>Authentication / Authorization</li>
+  <li>Security</li>
+  <li>Caching</li>
+  <li>Offline support</li>
+  <li>Logging & Monitoring</li>
+  <li>A/B Testing</li>
+  <li>Testing</li>
+  <li>Internationalization / Localization</li>
+  <li>PWA</li>
+  <li>CI / CD</li>
 </ul>
-
-2. Responsive / Adaptive
-3. Internet / Location / Devices
-- Accessibility
-- Assets optimization
-- Performance
-- CSR/SSR
-- Authentication / Authorization
-- Security
-- Caching
-- Offline support
-- Logging & Monitoring
-- A/B Testing
-- Testing
-- Internationalization / Localization
-- PWA
-- CI / CD
