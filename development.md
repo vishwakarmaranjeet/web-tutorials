@@ -6,13 +6,13 @@
 4.  Problem breakdown
 5.  Implementation
 
-# Functional
+<h3>Functional</h3>
 
 - Understanding your business and customer needs
 - What modules / features can be provide to our customers
 - Capabilities that will drive revenue/impact
 
-# Non-Funtional
+<h3>Non-Funtional</h3>
 - Mobile / Desktop
 - Responsive / Adaptive
 - Internet / Location / Devices
