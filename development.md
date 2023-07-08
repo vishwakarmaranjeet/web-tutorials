@@ -13,7 +13,10 @@
 - Capabilities that will drive revenue/impact
 
 <h3>Non-Funtional</h3>
-1. Mobile / Desktop
+<ul>
+  <li>Mobile / Desktop</li>
+</ul>
+
 2. Responsive / Adaptive
 3. Internet / Location / Devices
 - Accessibility
